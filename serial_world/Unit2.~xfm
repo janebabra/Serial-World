@@ -1,0 +1,11 @@
+object Form2: TForm2
+  Left = 158
+  Top = 115
+  Width = 514
+  Height = 535
+  Caption = 'Form2'
+  Color = clBackground
+  PixelsPerInch = 81
+  TextHeight = 17
+  TextWidth = 6
+end

@@ -1,0 +1,11 @@
+###########################################################
+#          Autorin: Barbara-Clarissa Hohensee             #
+#                                                         #
+#          StartScript zum Program 'The Serial World'     #
+#                                                         #
+###########################################################
+#
+#! /bin/bash
+export LD_LIBRARY_PATH="/home/hohensee/kylix3/bin:$LD_LIBRARY_PATH"
+cd Eigene\ Dateien/serial_world
+/home/hohensee/Eigene\ Dateien/serial_world/PMenu 

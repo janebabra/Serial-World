@@ -1,0 +1,18 @@
+{TODO -ohohensee -cUntermenüs : 
+Untermenüs zu Fall 1 - 3
+InventarAusrüstung (Camcorder, Sprechgerät, Voicerecorder)
+}
+{TODO -ohohensee -cPopUpMenu :
+Aktions-Menu:
+anschauen
+(gehe zu)
+öffne
+schliesse
+nehme}
+{TODO -ohohensee -cServerraum : Kiste mit Utensilien: Modem, serielles Kabel}
+{TODO -ohohensee -cServerraum : Notitzblatt für Serverraum an die Wand}
+{TODO -ohohensee -cBilder : "Mouse-senitive" Bereiche, clickable Imagese}
+{TODO -ohohensee -cBilder : Timer}
+{TODO -ohohensee -cInteraktion : Drag and Drop}
+{TODO -ohohensee -cBilder : Animierte Bild}
+ 
